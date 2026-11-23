@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://dagu.sh">
-    <img src="https://raw.githubusercontent.com/dagucloud/dagu/main/assets/images/hero-logo.png" width="720" alt="Dagu: built for teams whose main work is not orchestration">
+  <a href="https://dagu-demo-f5e33d0e.dagu.sh">
+    <img src="https://raw.githubusercontent.com/dagucloud/.github/main/profile/dagu-run.gif" alt="Starting a workflow in the Dagu Web UI: two extract steps run in parallel, then each downstream step turns green as it finishes">
   </a>
 </p>
 
