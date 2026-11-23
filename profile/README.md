@@ -14,7 +14,8 @@
   <a href="https://dagu.sh">Website</a> ·
   <a href="https://docs.dagu.sh">Docs</a> ·
   <a href="https://dagu-demo-f5e33d0e.dagu.sh">Live demo</a> <code>demouser / demouser</code> ·
-  <a href="https://discord.gg/gpahPUjGRk">Discord</a>
+  <a href="https://discord.gg/gpahPUjGRk">Discord</a> ·
+  <a href="https://x.com/dagucockpit">X</a>
 </p>
 
 Dagu is a local-first workflow engine for operations and internal automation. Workflows are declarative YAML DAGs that run existing shell commands, Docker containers, Kubernetes Jobs, and remote commands over SSH. It ships as one binary with a built-in Web UI and needs no external database or message broker.
