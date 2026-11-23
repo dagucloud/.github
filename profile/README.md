@@ -70,4 +70,4 @@ npm, Scoop, Docker, and Helm are covered in the [installation guide](https://doc
 - Questions: [Discord](https://discord.gg/gpahPUjGRk)
 - Bugs and feature requests: [Issues](https://github.com/dagucloud/dagu/issues)
 - Security reports: [private advisory](https://github.com/dagucloud/dagu/security)
-- Updates: [Bluesky](https://bsky.app/profile/dagu-sh.bsky.social)
+- Updates: [X](https://x.com/dagucockpit)
